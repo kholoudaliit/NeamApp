@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.kholoud.neamapp.views.MainActivity">
+    <item
+        android:id="@+id/action_addto_widget"
+        android:orderInCategory="100"
+        android:title="@string/action_widget"
+        app:showAsAction="never" />
+</menu>

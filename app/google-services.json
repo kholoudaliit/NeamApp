@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631482788266",
+    "firebase_url": "https://neamapp-f50ac.firebaseio.com",
+    "project_id": "neamapp-f50ac",
+    "storage_bucket": "neamapp-f50ac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631482788266:android:81e5fd54313f85abb523d3",
+        "android_client_info": {
+          "package_name": "com.kholoud.neamapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631482788266-oqp61qh44u96spi8rio5nndek2ps0sv1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbihH0XuI6ZMKp_-1MhcPp-FYh0kCI7pE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631482788266-oqp61qh44u96spi8rio5nndek2ps0sv1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

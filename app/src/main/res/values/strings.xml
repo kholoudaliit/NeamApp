@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NeamApp</string>
+    <string name="action_widget">Add To Widget</string>
+    <string name="note_content">Note content</string>
+    <string name="neam_image_contentdesc">Neam Image</string>
+    <string name="add_note">Add Note</string>
+    <string name="lbl_addnew">Add New</string>
+    <string name="empty_list_icon">empty list icon</string>
+    <string name="title_activity_note_details">NoteDetailsActivity</string>
+    <string name="appwidget_text">Your Grateful list</string>
+    <string name="add_widget">Add widget</string>
+    <string name="widget_title">SMILE =), You Are lucky to have:</string>
+    <string name="widget_add_message">Added to Home page widget</string>
+    <string name="note_validation_content">Please Enter Note Content</string>
+    <string name="added_note_msg">Your Note is added successfully</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="choose_gallery">Choose from Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="builder_title">Choose your Note image</string>
+    <string name="permission_denied">Permission denied</string>
+    <string name="edit_label">Edit/Delete Note</string>
+    <string name="edit">Edit</string>
+    <string name="delete_note">Delete</string>
+    <string name="confirmation_title">Are You Sure Do you want to delete this note ?</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="note_updated_sucessfully">Note Updated Successfully</string>
+    <string name="content_hint">What you are grateful in your day?</string>
+</resources>
